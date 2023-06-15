@@ -61,6 +61,8 @@ To get started with the Chat App, follow the instructions below:
 
 Feel free to explore and modify the code to meet your specific requirements.
 
+You can also download my app's apk using this [link.](https://drive.google.com/file/d/1KqV06lrBoKyfro7nceyW3GI-duYUDikz/view?usp=sharing)
+
 Happy chatting!
 
 
