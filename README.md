@@ -2,6 +2,8 @@
 
 ![](Screenshots/Icon.jpg)
 
+You can also download my app's apk using this [link.](https://drive.google.com/file/d/1KqV06lrBoKyfro7nceyW3GI-duYUDikz/view?usp=sharing)
+
 This is a chat application built using Flutter and Dart. The app provides a platform for users to connect with each other and engage in real-time conversations. It leverages the power of Firebase as the backend, enabling seamless user authentication and data storage.
 
 ## Features
@@ -60,8 +62,6 @@ To get started with the Chat App, follow the instructions below:
 
 
 Feel free to explore and modify the code to meet your specific requirements.
-
-You can also download my app's apk using this [link.](https://drive.google.com/file/d/1KqV06lrBoKyfro7nceyW3GI-duYUDikz/view?usp=sharing)
 
 Happy chatting!
 
